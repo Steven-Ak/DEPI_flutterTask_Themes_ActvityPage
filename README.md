@@ -1,6 +1,6 @@
 # task_3
 
-A new Flutter project.
+Creating an activity (notfications) page with list view and applying light and dark mode button to switch between them
 
 ## Getting Started
 
