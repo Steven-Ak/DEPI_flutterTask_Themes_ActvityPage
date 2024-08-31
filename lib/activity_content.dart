@@ -45,7 +45,7 @@ Widget ActivityContent(BuildContext context) {
         },
       ),
       separatorBuilder: (_, __) => const SizedBox(
-        height: 15,
+        height: 20,
       ),
   );
 }
