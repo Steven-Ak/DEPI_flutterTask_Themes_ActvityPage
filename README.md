@@ -1,4 +1,4 @@
-# task_3
+# Notfication screen with theme
 
 Creating an activity (notfications) page with list view and applying light and dark mode button to switch between them
 
